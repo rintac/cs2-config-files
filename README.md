@@ -11,7 +11,7 @@
 1. Place the files in the Counter-Strike 2 game directory, usually `~\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 1. Add `+exec !!init.cfg` to the *beginning* of your launch options of Counter-Strike 2
 1. Add `-console` *after* the launch option added in the previous step
-1. Open the console (default bind upon starting the game, you should see an ASCII banner; this verifies that the "autoexecute" configuration file ran properly
+1. Open the console (~) upon starting the game, you should see an ASCII banner; this verifies that the "autoexecute" configuration file ran properly
 
 ## Usage
 - To execute a "gamemode" specific configuration file, enter `exec c_name` in the console
