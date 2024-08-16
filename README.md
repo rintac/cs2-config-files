@@ -5,7 +5,7 @@
 - There is a "default" keybind configuration that automatically executes upon launch, and "gamemode" specific keybind configurations that need to be executed when desired
   - Surf configuration (c_surf.cfg)
   - Demo configuration (c_demo.cfg) [**WORK IN PROGRESS**]
-  - Throwable practice configuration (c_nade.cfg)
+  - Throwable practice server configuration (c_nade.cfg)
 
 ## INSTALLATION & VERIFICATION
 1. Extract (or `git clone`) the .cfg files to the Counter-Strike 2 configuration directory
