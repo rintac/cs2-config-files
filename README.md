@@ -23,6 +23,7 @@
 ## TODO
 - Flesh out the demo config
 - Add Crosshair/HUD config files and update !!init to include them
+- Deprecate jumpthrow config file (c_throws.cfg), as jumpthrow scripts were [patched](https://store.steampowered.com/news/app/730/view/6500469346429581891) on 2024-08-19
 
 ## CREDITS
 - [PAT or JK ASCII Art Generator](https://patorjk.com/software/taag/)
